@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Developed a concise Tableau tool merging employee data. Implemented the dashboard to simplify HR tasks, saving the team 3-4 hours. Offers swift access to critical employee insights, enhancing HR operations.
+Developed a concise PowerBI tool merging employee data. Implemented the dashboard to simplify HR tasks, saving the team 3-4 hours. Offers swift access to critical employee insights, enhancing HR operations.
 
 ### Data Source
 
